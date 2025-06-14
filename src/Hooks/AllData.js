@@ -377,7 +377,7 @@ const AllData = () => {
     },
     {
       id: 2,
-      date: "August 2021 -  January 2023 ",
+      date: "August 2021 -  January 2024",
       title: "Sr. Full Stack Engineer (Team Lead)",
       place: "Work Tech",
       bg: "#F2F4FF",
