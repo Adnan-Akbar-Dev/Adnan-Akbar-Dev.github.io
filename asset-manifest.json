@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dbf74df.css",
+    "main.js": "/static/js/main.25594dbc.js",
+    "static/media/bg.jpg": "/static/media/bg.81778ea0f6306193ac44.jpg",
+    "static/media/bgtwo.jpg": "/static/media/bgtwo.568bf743284339236ec4.jpg",
+    "static/media/bg-dark.jpg": "/static/media/bg-dark.8fb39b45ee55aa5d341e.jpg",
+    "static/media/cv.pdf": "/static/media/cv.743d25e70075523dae1b.pdf",
+    "static/media/lumbarfy.png": "/static/media/lumbarfy.0423099c9442aa184b40.png",
+    "static/media/skillgigs.jpeg": "/static/media/skillgigs.68f79eb7bc67a9adb5d9.jpeg",
+    "static/media/logo.png": "/static/media/logo.b8483f1fcfc5313d1d36.png",
+    "static/media/avatar.jpeg": "/static/media/avatar.a589c90e73f893dc0834.jpeg",
+    "static/media/caesar-big.jpeg": "/static/media/caesar-big.48eb85b094153223b402.jpeg",
+    "static/media/lumbarfy-small.png": "/static/media/lumbarfy-small.c7187938371be083ada7.png",
+    "static/media/skillgigs-small.jpeg": "/static/media/skillgigs-small.e08e39b1f3ce05c19f65.jpeg",
+    "static/media/icon-5.svg": "/static/media/icon-5.b7ce008f06241f1d51b48260af8b73f4.svg",
+    "static/media/icon-2.svg": "/static/media/icon-2.cbff424c7b23532c3f955e6f747ee1fa.svg",
+    "static/media/icon-1.svg": "/static/media/icon-1.71b741a6ab73765534e80db0a934febd.svg",
+    "static/media/icon-4.svg": "/static/media/icon-4.debd2460915c6956cf9f0807f6a6e175.svg",
+    "static/media/icon-3.svg": "/static/media/icon-3.fdad60c61dbd06fc9f40447af733556b.svg",
+    "index.html": "/index.html",
+    "main.9dbf74df.css.map": "/static/css/main.9dbf74df.css.map",
+    "main.25594dbc.js.map": "/static/js/main.25594dbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dbf74df.css",
+    "static/js/main.25594dbc.js"
+  ]
+}
